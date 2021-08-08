@@ -1,0 +1,6 @@
+admin,admin
+sai,sai
+sri,sri
+hari,hari
+sri,kanth,srikanth,vijayawada,28,9000090000
+sa,sa,saiki,dd,ss,ss

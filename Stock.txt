@@ -1,0 +1,5 @@
+Harry Potter,Jk Rowling,3,690,2002,2468246824682,01
+Start With Why,Simon Sinek,2,700,1999,2468246824684,02
+Programming With Python,John Smith,1,200,2021,2468246824686,03
+gold,goldy,2,sa,2000,04,0,2345234523452
+sai,sai,1,sa,2000,2345234523452,04,0
